@@ -29,7 +29,7 @@
     ],
     "require": {
         "craftcms/cms": "^3.0.0",
-        "johngrogg/ics-parser": "dev-master#a42740a4c3d8d5ecd99a728da8cd821dffb747f0"
+        "u01jmg3/ics-parser": "dev-master#a42740a4c3d8d5ecd99a728da8cd821dffb747f0"
     },
     "autoload": {
         "psr-4": {
